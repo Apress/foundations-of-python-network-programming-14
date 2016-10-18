@@ -1,0 +1,21 @@
+# Foundations of Python Network Programming
+# "requirements.txt" for Python 3
+# Makes it possible to run every script in the book
+
+beautifulsoup4
+cssselect
+dnspython3
+ghost.py==0.1b3
+httpbin
+imapclient
+jsonrpclib-pelix
+lxml
+paramiko
+pygeocoder
+python3-memcached
+pyzmq
+requests
+rpyc
+selenium
+webob
+werkzeug
